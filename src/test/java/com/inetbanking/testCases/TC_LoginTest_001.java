@@ -2,7 +2,7 @@ package com.inetbanking.testCases;
 
 import java.io.IOException;
 
-import org.apache.log4j.Category;
+//import org.apache.log4j.Category;
 import org.testng.annotations.Test;
 
 import com.inetbanking.pageObjects.LoginPage;
